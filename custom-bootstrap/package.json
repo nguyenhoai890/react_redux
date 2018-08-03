@@ -1,0 +1,15 @@
+{
+  "name": "custom-bootstrap",
+  "version": "1.0.0",
+  "description": "custom css bootstrap",
+  "main": "build/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hoai",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "less": "^3.8.0"
+  }
+}
